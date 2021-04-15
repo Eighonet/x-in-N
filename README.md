@@ -14,7 +14,7 @@
 
 # Архитектура решения
 
-![photo_2021-04-15_14-57-18](C:\Users\Eighonet Aerta\Downloads\photo_2021-04-15_14-57-18.jpg)
+![photo_2021-04-15_14-57-18](https://i.ibb.co/qpPxzcw/photo-2021-04-15-14-57-18.jpg)
 
 # Предобработка
 
