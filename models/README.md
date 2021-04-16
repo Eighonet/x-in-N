@@ -12,3 +12,7 @@ forward.ipynb -- графовая сверточная нейронная сет
 
 
 
+TextGCN (https://github.com/berksudan/GCN-Text-Classification) -- гетерогенная GCN + PMI + TF-IDF. 
+
+Результаты: F-score (binary) = 0.847 (10 эпоха, 12 часов)
+
