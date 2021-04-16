@@ -16,3 +16,4 @@ TextGCN (https://github.com/berksudan/GCN-Text-Classification) -- гетерог
 
 Результаты: F-score (binary) = 0.847 (10 эпоха, 12 часов)
 
+https://arxiv.org/pdf/1809.05679.pdf
